@@ -1,0 +1,11 @@
+low level programming language: provides little or no abstraction from the computer's hardware, allowing direct control over the CPU, memory, and registers,there are two types of low level programming language Machine language and assembly language
+machine langauge is first generation language and they call it 0,1 language because cpu can exceute it dierctly without transaltion
+assembly language is seconde generation language use symbolic repersantions to repersent machine instructions making it more readable by human
+we use low level language in os,embedded systems
+high level programming language:a language with a high degree of abstraction from the details of the computer hardware, designed to be easy for humans to read, write, and maintain and it must be transalated into machine code fot the computer to execute them to translate them we use compiler or interpreter
+compiler:it translate the whole program and after running it detect errors this make it faster than interpreters
+interpreters:translate line by line it is slower than compiler 
+scripted language: make a specifc order and it is slower than general language
+open source language as python,javascript those the source code is freely avaliable for anyone to use and modify and share from disadvantges have many versions
+not open source a language the owner only can modify in it 
+there are langauges support oop and other no language that support oop as python,c++,php and language as c doesn't support oop
