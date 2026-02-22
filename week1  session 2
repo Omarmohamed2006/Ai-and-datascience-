@@ -1,0 +1,5 @@
+what is the differnce between data types double,float,decimal
+they differ in accuracy,storage size
+decimal is the most accuracy have largest storrage size with 16bytes slowest in calculation
+double is mid accuracy have 8bytes slower than float but fast than decimal
+float is low accuracy have 4bytes faster than decimal and double
