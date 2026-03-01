@@ -1,0 +1,4 @@
+How to track a character in single string?
+we can use the built-in functions find(),index() or for loop with enumerate(),or alist
+finding the first occurrence you can use find(),index()
+finding all occurence use enumerate() in alist,for loop provides more control
